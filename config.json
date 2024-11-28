@@ -1,0 +1,82 @@
+{
+  "prefix": "qs",
+  
+  "developerbot": "1205174578641502208",
+  
+  "welcomeRoomId": "1311755371911839744",
+  
+  "rankbanner": "rank2.png",
+  
+  "suggestionschannel": "1305102591780458546",
+  "suggestionsreport": "1305102591780458546",
+  "accshinsug": "1305102591780458546",
+  
+  "welcomeLogChannelId": "1301239999970410557",
+  "ruleschannelid": "1301239999970410557",
+
+  "logChannelId": "1305102591780458546",
+  "TicketReportChannelId": "1305102591780458546",
+  "ServerReportChannelId": "1305102591780458546",
+  "TicketSaveChannelId": "1305102591780458546",
+  "levelUpChannelId": "",
+  
+  "avatar_id": "1279586207025594634",
+  "server_image_id": "1279586207025594633",
+  "bot_id": "1237544234035445843",
+  "channel_info_id": "1247236462479540249",
+  "clear_id": "1237544234035445844",
+  "edit_message_id": "1247236462479540250",
+  "emoji_list_id": "1247236462479540251",
+  "member_list_id": "1244237120680230993",
+  "message_info_id": "1247236462479540254",
+  "ping_id": "1237544234035445846",
+  "role_info_id": "1247236462479540255",
+  "role_list_id": "1247236462915620975",
+  "say_id": "1285663869431447611",
+  "server_banner_id": "1237544234035445847",
+  "server_info_id": "1247236462915620977",
+  "tax_id": "1237544234471522375",
+  "test_welcome_id": "1247236462915620978",
+  "user_banner_idd": "1247236462915620979",
+  "user_info_id": "1247236462915620980",
+  
+    "categoryIDs": {
+    "ticket_1": "1305102486121480274",
+    "ticket_2": "1305102486121480274",
+    "ticket_3": "1305102486121480274"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "To buy 🎟️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392621604343869/1.png?ex=668f2799&is=668dd619&hm=2441b33d7721aa353b9292f65bb216e0f9d34451f710cdc5f94784426999261a&",
+      "value": "ticket_1",
+      "rolesupport": "<@1205174578641502208>",
+      "roleticketid": [
+        "1229116928501616640"
+      ],
+      "emoji": "🎟️"
+    },
+    {
+      "label": "Apply for join our team ⚠️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392674611953724/4.png?ex=668f27a6&is=668dd626&hm=4a03dc642b4f9db50c8ba8cac9a4c93bab3c9feab3ed176495dc23fadea49906&",
+      "value": "ticket_2",
+      "rolesupport": "<@1205174578641502208>",
+      "roleticketid": [
+        "1229116928501616640"
+      ],
+      "emoji": "⚠️"
+    },
+    {
+      "label": "For help 🛠️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1260392698754633818/6.png?ex=668f27ac&is=668dd62c&hm=f6d4110d2c2d870a48f05506dbe9186ed73e5b3ec1164c099d26417ac59935aa&",
+      "value": "ticket_3",
+      "rolesupport": "<@1205174578641502208>",
+      "roleticketid": [
+        "1229116928501616640"
+      ],
+      "emoji": "🛠️"
+    }
+  ]
+}
+
+
